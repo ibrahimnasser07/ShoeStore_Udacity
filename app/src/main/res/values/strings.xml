@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="email_hint">Please enter your email</string>
+    <string name="password_hint">password</string>
+    <string name="loginButtonText">Login</string>
+    <string name="signUpButtonText">SignUp</string>
+    <string name="welcomeToShoe">Welcome to the Shoe app</string>
+    <string name="happyToSeeYou">We are so happy to see you and hope you enjoy our shoe store! \n click on the button below to shoe instructions (you won\'t regret it.)</string>
+    <string name="instructions">View instructions</string>
+    <string name="appName">Shoe Store</string>
+    <string name="showStoreButtonText">Open Store</string>
+    <string name="instruction1Text">1. You\'ll find our list of shoes for you to browse.</string>
+    <string name="instruction2Text">2. If you don\'t like any of our shes (RUDE!!) you can add your own shoes from the button in the bottom right corner.</string>
+    <string name="instruction3Text">3. you can click on any shoe to view its info, but you can\'t edit our listings (OBVIOUSLY!!).</string>
+</resources>
